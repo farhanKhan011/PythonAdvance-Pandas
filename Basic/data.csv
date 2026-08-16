@@ -1,0 +1,8 @@
+Employee_ID,Name,Department,Salary,Age,Join_Date
+101,Alice,IT,70000,28,2021-03-15
+102,Bob,HR,52000,34,2019-07-22
+103,Charlie,IT,85000,45,2015-11-01
+104,David,Marketing,61000,29,2022-01-10
+105,Emma,HR,54000,31,2020-05-18
+106,Frank,Marketing,,38,2018-09-05
+107,Grace,IT,92000,41,2017-04-12
